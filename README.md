@@ -1,4 +1,4 @@
-CS 499
+ECE 4/599
 =======
 
 This is the [website][mem-systems-site-w25] for a new grad course at OSU on modern memory systems.
