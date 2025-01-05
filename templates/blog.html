@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block main %}
+<h1>
+  {{ section.title }}
+  <a href="{{ get_url(path="rss.xml", trailing_slash=false) | safe }}">
+    <img src="../img/rss.svg" class="rss">
+  </a>
+</h1>
+{% for post in section.pages %}
+<article>
+  <h1><a href="{{ post.permalink }}">{{ post.title }}</a></h1>
+  <p class="details">
+    {% if post.extra.authors %}
+    <span class="author">by
+    {% for author in post.extra.authors %}
+      {{ author.name }}{% if not loop.last %},{% endif %}
+    {% endfor %}
+    </span>
+    {% else %}
+    <span class="author">by {{ post.extra.author }}</span>
+    {% endif %}
+    <time datetime="{{ post.date }}">
+      {{ post.date | date(format="%B %e, %Y") }}
+    </time>
+  </p>
+</article>
+{% endfor %}
+{% endblock main %}

@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+{% block main %}
+{% set schedule = load_data(path="data/schedule.toml") %}
+{% set content = load_data(path="data/content.toml") %}
+{% set readings = load_data(path="data/reading.toml") %}
+{% set lessons = get_section(path="lesson/_index.md") %}
+
+<h1>{{ page.title }}</h1>
+
+{% set count = schedule.days | length %}
+{% set class_count = content.classes | length %}
+<table class="schedule">
+  <tbody>
+    {% set_global class_idx = 0 %}
+    {% for idx in range(end=count) %}
+    {% set day = schedule.days[idx] %}
+    <tr class="{% if day.canceled %}canceled{% endif %} {% if day.mon %}mon{% endif %}">
+      <th scope="row" class="short num">
+        <span class="month {% if day.month %}first{% endif %}">
+          {{ day.date | split(pat=" ") | nth(n=0) }}
+        </span>
+        <span class="day">
+          {{ day.date | split(pat=" ") | nth(n=1) }}
+        </span>
+      </th>
+      <td>
+      {% if day.event %}
+      <strong>{{ day.event | markdown(inline=true) | safe }}</strong>
+      {% else %}
+      {% if class_idx < class_count %}
+      {% set collapse = day.collapse | default(value=1) %}
+      {% for collapse_idx in range(end=collapse) %}
+      {% set class = content.classes[class_idx] %}
+      {% set_global class_idx = class_idx + 1 %}
+      <div class="class">
+        {% if class.lesson %}
+        {{ macros::lesson_link(id=class.lesson, title=true) }}
+        {% endif %}
+        {{ class.title | default(value='') }}
+        {% if class.leader %}({{class.leader}}){% endif %}
+        {% if class.readings %}
+        <ul>
+        {% for rdkey in class.readings %}
+          {% set reading = readings[rdkey] %}
+          <li>
+            <a href="{{reading.link}}">{{reading.name}}</a>
+            {% if reading.details %}
+            <br>{{reading.details}}
+            {% endif %}
+          </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+      {% endfor %}
+      {% endif %}
+      {% endif %}
+      </td>
+      <td class="short">
+      <ul class="simple">
+      {% for note in day.notes | default(value=[]) %}
+        <li>{{ note | markdown(inline=true) | safe }}</li>
+      {% endfor %}
+      {% for lesson in lessons.pages %}
+      {% if lesson.extra.due | default(value='') == day.date %}
+        <li>Due:
+        {% if not lesson.draft %}<a href="{{lesson.permalink}}">{% endif %}Lesson {{lesson.slug}}{% if not lesson.draft %}</a>{% endif %}
+        tasks.</li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+{% endblock main %}
