@@ -8,7 +8,7 @@ readings = ["reading", "eeg"]
 
 [[classes]]
 lesson = 2
-title = Review of Memory Basics
+title = "Review of Memory Basics"
 leader = "Kyle"
 readings = ["lee-tiered"]
 
