@@ -126,6 +126,7 @@ To submit your report, open a pull request in [the course’s GitHub repository]
 In your PR description, please include “closes #N” where N is the issue number for your proposal.
 The repository's README relevant has instructions.
 
+[schedule]: @/schedule.md
 [syl]: https://canvas.oregonstate.edu/courses/1995803/assignments/syllabus
 [lessons]: @/lesson/_index.md
 [blog]: @/blog/_index.md
