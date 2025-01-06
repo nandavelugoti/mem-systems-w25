@@ -3,6 +3,12 @@ name = "How to Read a Paper"
 link = "http://ccr.sigcomm.org/online/files/p83-keshavA.pdf"
 details = "S. Keshav. SIGCOMM CCR"
 
+[lee-tiered]
+name = "Tiered-Latency DRAM: A Low Latency and Low Cost DRAM Architecture (Sections 1 & 2)"
+link = "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6522354&tag=1"
+details = "Donghyuk Lee, Yoongu Kim, Vivek Seshadri, Jamie Liu, Lavanya Subramanian, and Onur Mutlu"
+
+
 [wrongdata]
 name = "Producing Wrong Data Without Doing Anything Obviously Wrong!"
 link = "https://dl.acm.org/citation.cfm?id=1508275"
