@@ -91,4 +91,4 @@ details = "Xavier Leroy. CACM in 2009."
 [mlir]
 name = "MLIR: A Compiler Infrastructure for the End of Moore’s Law"
 link = "https://arxiv.org/abs/2002.11054"
-details = "Chris Lattner, Mehdi Amini, Uday Bondhugula, Albert Cohen, Andy Davis, Jacques Pienaar, River Riddle, Tatiana Shpeisman, Nicolas Vasilache, and Oleksandr Zinenko. arXiv preprint, 2020."
+details = "Chris Lattner, Mehdi Amini, Uday Bondhugula, Albert Cohen, Andy Davis, Jacques Pienaar, River Riddle, Tatiana Shpeisman, Nicolas Vasilache, and Oleksandr Zinenko. arXiv preprint, 20"
