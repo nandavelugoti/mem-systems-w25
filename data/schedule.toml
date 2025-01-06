@@ -77,6 +77,6 @@ mon = true
 
 [[days]]
 date = "March 12"
-event = "Final project deadline (2:00pm)"
+event = "Final Project Presentations"
 canceled = true
-notes = ["Due: [Project](../syllabus/#project)."]
+notes = ["Due @ 2PM: [Project](../syllabus/#project)."]

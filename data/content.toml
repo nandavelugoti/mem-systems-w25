@@ -1,138 +1,22 @@
-# Introductions.
+# Introductions and Background
 
 [[classes]]
 lesson = 1
-title = "Course Intro"
 leader = "Kyle"
-readings = ["reading", "eeg"]
+readings = ["reading"]
+
+# Memory Basics Refresher 
 
 [[classes]]
 lesson = 2
-title = "Review of Memory Basics"
+title = "Memory Technology Refresher"
 leader = "Kyle"
-readings = ["lee-tiered"]
+readings = ["lee-tiered", "kim-subarray", "liu-raidr"]
 
 [[classes]]
 lesson = 2
+title = "Virtual Memory"
+leader = "Leader TBD"
+readings = ["mosaic", "ostep", "slave-memories", "sls", "vax-tlb"]
 
 
-# "Classic" optimization.
-
-[[classes]]
-lesson = 3
-
-[[classes]]
-lesson = 3
-
-[[classes]]
-lesson = 4
-
-[[classes]]
-lesson = 4
-
-[[classes]]
-lesson = 5
-
-[[classes]]
-title = "Profiling"
-leader = "Bennett Wineholt"
-readings = ["ball-larus"]
-
-[[classes]]
-lesson = 6
-
-
-# LLVM.
-
-[[classes]]
-lesson = 7
-
-[[classes]]
-title = "Automatic Verification"
-leader = "Benjamin Carleton, Surendra Ghentiyala"
-readings = ["alive"]
-
-
-# "Fancy" optimization.
-
-[[classes]]
-lesson = 8
-
-[[classes]]
-lesson = 9
-
-[[classes]]
-lesson = 10
-
-[[classes]]
-title = "Alias-Based Optimization"
-leader = "Kei Imada, Jan-Paul Ramos, Ryan Mao, Albert Xiao"
-readings = ["tbaa"]
-
-
-# Memory management.
-
-[[classes]]
-lesson = 11
-
-[[classes]]
-title = "GC & Reference Counting"
-leader = "Omkar Bhalerao, Sanjit Basker, Justin Ngai, Melinda Fang"
-readings = ["ugc"]
-
-[[classes]]
-title = "Fancy Memory Management"
-leader = "Evan, Andy, Emily"
-readings = ["mesh"]
-
-
-# Dynamic languages.
-
-[[classes]]
-lesson = 12
-
-[[classes]]
-title = "Dynamic Languages"
-leader = "Benny Rubin, Collin Zhang, Alice Sze"
-readings = ["self"]
-
-[[classes]]
-title = "Tracing"
-leader = "Vivian Ding and William Wang and Enoch Chen"
-readings = ["tracemonkey"]
-
-
-# Synthesis.
-
-[[classes]]
-lesson = 13
-
-# Replaced with guest lecture.
-# [[classes]]
-# title = "Superoptimization"
-# leader = "TK"
-# readings = ["super"]
-
-[[classes]]
-title = "Synthesis-Aided Compilers"
-leader = "Yixiao Du and Matthew Hofmann"
-readings = ["chlorophyll"]
-
-
-# Parallelism.
-
-[[classes]]
-lesson = 14
-
-
-# Potpourri.
-
-[[classes]]
-title = "Compiler Frameworks"
-leader = "John Rubio, Arjun Shah, Jiahan Xie"
-readings = ["mlir"]
-
-[[classes]]
-title = "Interactive Verification"
-leader = "Zak, Stephen V, Ali"
-readings = ["compcert"]

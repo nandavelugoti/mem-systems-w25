@@ -8,6 +8,14 @@
 
 <h1>{{ page.title }}</h1>
 
+Legend:
+<ul>
+    <li>@: Required reading (usually the paper of the day)</li>
+    <li>^: Recommended background reading</li>
+    <li>*: Optional reading, sometimes historical </li>
+</ul>
+
+
 {% set count = schedule.days | length %}
 {% set class_count = content.classes | length %}
 <table class="schedule">
