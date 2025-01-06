@@ -1,16 +1,15 @@
-base_url = "https://www.cs.cornell.edu/courses/cs6120/2023fa"
+base_url = "https://khale.github.io/mem-systems-w25"
 compile_sass = true
 build_search_index = false
 
-generate_feed = true
-feed_filename = "rss.xml"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
 
-highlight_code = true
-highlight_theme = "subway-madrid"
-
-title = "CS 499"
+title = "ECE 4/599"
 
 [markdown]
+highlight_code = true
+highlight_theme = "subway-madrid"
 smart_punctuation = true
 
 [extra]
@@ -18,9 +17,5 @@ favicon = "/img/favicon.ico"
 bigicon = "/img/favicon152.png"
 
 [[extra.links]]
-name = "Zulip"
-url = "https://cs6120.zulipchat.com"
-
-[[extra.links]]
 name = "Discussions"
-url = "https://github.com/sampsyo/cs6120/discussions"
+url = "https://github.com/khale/mem-systems-w25/discussions"

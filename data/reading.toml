@@ -1,3 +1,8 @@
+[reading]
+name = "How to Read a Paper"
+link = "http://ccr.sigcomm.org/online/files/p83-keshavA.pdf"
+details = "S. Keshav. SIGCOMM CCR"
+
 [wrongdata]
 name = "Producing Wrong Data Without Doing Anything Obviously Wrong!"
 link = "https://dl.acm.org/citation.cfm?id=1508275"

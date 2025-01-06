@@ -2,11 +2,11 @@
 
 [[classes]]
 lesson = 1
+title = "Course Intro"
+leader = "Kyle"
+readings = ["reading", "eeg"]
 
 [[classes]]
-title = "Performance and Measurement"
-leader = "Adrian"
-readings = ["wrongdata", "eeg"]
 
 [[classes]]
 lesson = 2
