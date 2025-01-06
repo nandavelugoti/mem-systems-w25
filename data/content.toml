@@ -11,12 +11,17 @@ readings = ["reading"]
 lesson = 2
 title = "Memory Technology Refresher"
 leader = "Kyle"
-readings = ["lee-tiered", "kim-subarray", "liu-raidr"]
 
 [[classes]]
 lesson = 3
 title = "Virtual Memory"
 leader = "Leader TBD"
-readings = ["mosaic", "ostep", "slave-memories", "sls", "vax-tlb"]
+readings = ["mosaic"]
+
+[[classes]]
+lesson = 4
+title = "NUMA"
+leader = "Leader TBD"
+readings = ["tlb-numa"]
 
 

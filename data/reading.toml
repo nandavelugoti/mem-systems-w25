@@ -1,46 +1,51 @@
 [reading]
-name = "@How to Read a Paper"
+name = "How to Read a Paper"
 link = "http://ccr.sigcomm.org/online/files/p83-keshavA.pdf"
 details = "S. Keshav. SIGCOMM CCR"
 
 [lee-tiered]
-name = "^ Tiered-Latency DRAM: A Low Latency and Low Cost DRAM Architecture (Sections 1 & 2)"
+name = "Tiered-Latency DRAM: A Low Latency and Low Cost DRAM Architecture (Sections 1 & 2)"
 link = "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6522354&tag=1"
 details = "Donghyuk Lee, Yoongu Kim, Vivek Seshadri, Jamie Liu, Lavanya Subramanian, and Onur Mutlu. HPCA '13"
 
 [liu-raidr]
-name = "^ RAIDR: Retention-Aware Intelligent DRAM Refresh (Sections 1 & 2)"
+name = "RAIDR: Retention-Aware Intelligent DRAM Refresh (Sections 1 & 2)"
 link = "https://users.ece.cmu.edu/~omutlu/pub/raidr-dram-refresh_isca12.pdf"
 details = "Jamie Liu, Ben Jaiyen, Richard Veras, and Onur Mutlu. ISCA '12"
 
 [kim-subarray]
-name = "^ A Case for Exploiting Subarray-level Parallelism (SALP) in DRAM (Sections 1 & 2)"
+name = "A Case for Exploiting Subarray-level Parallelism (SALP) in DRAM (Sections 1 & 2)"
 link = "https://ieeexplore.ieee.org/document/6237032"
 details = "Yoongu Kim, Vivek Seshadri, Donghyuk Lee, Jamie Liu, and Onur Mutlu. ISCA '12"
 
 [mosaic]
-name = "@ Mosaic Pages: Big TLB Reach with Small Pages"
+name = "Mosaic Pages: Big TLB Reach with Small Pages"
 link = "https://www.cs.yale.edu/homes/abhishek/ksriram-asplos23.pdf"
 details = "Gosakan et al. ASPLOS '23"
 
 [ostep]
-name = "^ Operating Systems: Three Easy Pieces (Chs. 18-20)"
+name = "Operating Systems: Three Easy Pieces (Chs. 18-20)"
 link = "https://pages.cs.wisc.edu/~remzi/OSTEP/"
 
 [slave-memories]
-name = "* Slave Memories and Dynamic Storage Allocation"
+name = "Slave Memories and Dynamic Storage Allocation"
 link = "https://ieeexplore.ieee.org/document/4038419"
 details = "Maurice Wilkes. IEEE Transacitons on Electonic Computers, April 1965."
 
 [sls]
-name = "* One-Level Storage System"
+name = "One-Level Storage System"
 link = "https://ieeexplore.ieee.org/document/5219356"
 details = "Kilburn et al., IRE Transactions on Electronic Computers, April 1962."
 
 [vax-tlb]
-name = "* Performance of the VAX-11/780 translation buffer: simulation and measurement"
+name = "Performance of the VAX-11/780 translation buffer: simulation and measurement"
 link = "https://dl.acm.org/doi/10.1145/214451.214455"
 details = "Douglas Clark and Joel Emer. Transactions on Computer Systems 3(1), 1985."
+
+[tlb-numa]
+name = "Scalable and Effective Page-table and TLB management on NUMA Systems"
+link = "https://www.usenix.org/conference/atc24/presentation/gao-bin-scalable"
+details = "Gao et al. USENIX ATC '24"
 
 [wrongdata]
 name = "Producing Wrong Data Without Doing Anything Obviously Wrong!"
