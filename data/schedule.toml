@@ -7,15 +7,14 @@ mon = true
 date = "January 8"
 
 [[days]]
+date = "January 10"
+
+[[days]]
 date = "January 13"
 mon = true
 
 [[days]]
 date = "January 15"
-
-[[days]]
-date = "January 17"
-notes = ["Due: [Project](../syllabus/#project) proposal."]
 
 [[days]]
 date = "January 20"

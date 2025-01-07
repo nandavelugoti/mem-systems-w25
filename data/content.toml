@@ -9,19 +9,114 @@ readings = ["reading"]
 
 [[classes]]
 lesson = 2
-title = "Memory Technology Refresher"
 leader = "Kyle"
+
+
+# Virtual Memory Basics 
 
 [[classes]]
 lesson = 3
-title = "Virtual Memory"
 leader = "Leader TBD"
 readings = ["mosaic"]
 
 [[classes]]
 lesson = 4
-title = "NUMA"
+title = "Shared Memory and NUMA"
 leader = "Leader TBD"
-readings = ["tlb-numa"]
+readings = ["nuksm"]
 
+[[classes]]
+lesson = 5
+title = "Distributed Memory and Message Passing"
+leader = "Leader TBD"
+readings = ["fmi"]
 
+[[classes]]
+lesson = 6
+title = "Cache Coherence"
+leader = "Leader TBD"
+readings = ["barrel"]
+
+[[classes]]
+lesson = 7
+title = "Memory Models and Consistency"
+leader = "Leader TBD"
+readings = ["e2e"]
+
+[[classes]]
+lesson = 8
+title = "Fault-Tolerance and Replication I"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 9
+title = "Fault-Tolerance and Replication II"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 10
+title = "In-Memory Key-Value Stores"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 11
+title = "Distributed Shared Memory I"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 12
+title = "Distributed Shared Memory II"
+leader = "Leader TBD"
+readings = ["drust"]
+
+[[classes]]
+lesson = 13
+title = "Persistent Memory I"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 14
+title = "Persistent Memory II"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 15
+title = "Disagg I"
+leader = "Leader TBD"
+readings = ["disagg"]
+
+[[classes]]
+lesson = 16
+title = "Disagg II"
+leader = "Leader TBD"
+readings = ["fastswap"]
+
+[[classes]]
+lesson = 17
+title = "Disagg III"
+leader = "Leader TBD"
+readings = ["trackfm"]
+
+[[classes]]
+lesson = 18
+title = "Disagg IV"
+leader = "Leader TBD"
+readings = ["tiers"]
+
+[[classes]]
+lesson = 19
+title = "NDP I"
+leader = "Leader TBD"
+readings = []
+
+[[classes]]
+lesson = 20
+title = "NDP II"
+leader = "Leader TBD"
+readings = []
