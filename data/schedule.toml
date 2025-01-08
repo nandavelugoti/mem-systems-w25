@@ -7,9 +7,6 @@ mon = true
 date = "January 8"
 
 [[days]]
-date = "January 10"
-
-[[days]]
 date = "January 13"
 mon = true
 
