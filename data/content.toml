@@ -22,7 +22,7 @@ readings = ["mosaic"]
 [[classes]]
 lesson = 4
 title = "Shared Memory and NUMA"
-leader = "Lab B: Leader - TBD"
+leader = "Lab B: Leader - Eugene"
 readings = ["nuksm"]
 
 [[classes]]
