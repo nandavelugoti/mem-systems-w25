@@ -96,3 +96,13 @@ link = "https://www.sigplan.org/Resources/EmpiricalEvaluation/"
 name = "DRust: Language-Guided Distributed Shared Memory with Fine Granularity, Full Transparency, and Ultra Efficiency"
 link = "https://www.usenix.org/conference/osdi24/presentation/ma-haoran"
 details = "Ma et al. OSDI '24"
+
+[raft]
+name = "In Search of an Understandable Consensus Algorithm"
+link = "https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14"
+details = "Diego Ongaro and John Ousterhout. USENIX ATC '14"
+
+[hotstuff]
+name = "HotStuff: BFT Consensus with Linearity and Responsiveness"
+link = "https://dl.acm.org/doi/10.1145/3293611.3331591"
+details = "Yin et al. PODC '19"
