@@ -6,7 +6,7 @@ template = "home.html"
 
 **Instructor:** [Kyle Hale][kyle]  
 **When:** Monday and Wednesday, 2:00PM - 3:50PM
-**Where:** [Weniger Hall][] 201
+**Where:** Weniger Hall 201
 **Office hours:** by appointment (DM Kyle on Discord to find a time)
 
 Read & [subscribe][rss] to our [course blog][blog]!
