@@ -16,13 +16,13 @@ leader = "Kyle"
 
 [[classes]]
 lesson = 3
-leader = "Lab A: Leader - Sami"
+leader = "Lab A: **Leader - Sami**"
 readings = ["mosaic"]
 
 [[classes]]
 lesson = 4
 title = "Shared Memory and NUMA"
-leader = "DAM RAM Lab: Leader - Eugene"
+leader = "DAM RAM Lab: **Leader - Eugene**"
 readings = ["nuksm"]
 
 [[classes]]
@@ -34,7 +34,7 @@ readings = ["fmi"]
 [[classes]]
 lesson = 6
 title = "Cache Coherence"
-leader = "DAM RAM Lab: Leader - Rabecka"
+leader = "DAM RAM Lab: **Leader - Rabecka**"
 readings = ["barrel"]
 
 [[classes]]
