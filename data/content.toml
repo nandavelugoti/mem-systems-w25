@@ -34,7 +34,7 @@ readings = ["fmi"]
 [[classes]]
 lesson = 6
 title = "Cache Coherence"
-leader = "Lab B: Leader - TBD"
+leader = "Lab B: Leader - Rabecka"
 readings = ["barrel"]
 
 [[classes]]
