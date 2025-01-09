@@ -22,7 +22,7 @@ readings = ["mosaic"]
 [[classes]]
 lesson = 4
 title = "Shared Memory and NUMA"
-leader = "Lab B: Leader - Eugene"
+leader = "DAM RAM Lab: Leader - Eugene"
 readings = ["nuksm"]
 
 [[classes]]
@@ -34,7 +34,7 @@ readings = ["fmi"]
 [[classes]]
 lesson = 6
 title = "Cache Coherence"
-leader = "Lab B: Leader - Rabecka"
+leader = "DAM RAM Lab: Leader - Rabecka"
 readings = ["barrel"]
 
 [[classes]]
@@ -46,7 +46,7 @@ readings = ["e2e"]
 [[classes]]
 lesson = 8
 title = "Fault-Tolerance and Replication I"
-leader = "Lab B: Leader - TBD"
+leader = "DAM RAM Lab: Leader - TBD"
 readings = ["raft"]
 
 [[classes]]
@@ -58,7 +58,7 @@ readings = ["hotstuff"]
 [[classes]]
 lesson = 10
 title = "In-Memory Key-Value Stores"
-leader = "Lab B: Leader - TBD"
+leader = "DAM RAM Lab: Leader - TBD"
 readings = ["segcache"]
 
 [[classes]]
@@ -70,7 +70,7 @@ readings = ["ivy"]
 [[classes]]
 lesson = 12
 title = "Distributed Shared Memory II"
-leader = "Lab B: Leader - TBD"
+leader = "DAM RAM Lab: Leader - TBD"
 readings = ["drust"]
 
 [[classes]]
@@ -82,7 +82,7 @@ readings = ["empirical"]
 [[classes]]
 lesson = 14
 title = "Persistent Memory II"
-leader = "Lab B: Leader - TBD"
+leader = "DAM RAM Lab: Leader - TBD"
 readings = ["wsp"]
 
 [[classes]]
@@ -94,7 +94,7 @@ readings = ["disagg"]
 [[classes]]
 lesson = 16
 title = "Disaggregated Memory II"
-leader = "Lab B: Leader - TBD"
+leader = "DAM RAM Lab: Leader - TBD"
 readings = ["trackfm"]
 
 [[classes]]
@@ -106,5 +106,5 @@ readings = ["tiers"]
 [[classes]]
 lesson = 18
 title = "Near-Data Processing"
-leader = "Lab B: Leader - TBD"
+leader = "DAM RAM Lab: Leader - TBD"
 readings = ["simple"]
