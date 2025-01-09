@@ -59,13 +59,13 @@ readings = ["hotstuff"]
 lesson = 10
 title = "In-Memory Key-Value Stores"
 leader = "Lab B: Leader - TBD"
-readings = []
+readings = ["segcache"]
 
 [[classes]]
 lesson = 11
 title = "Distributed Shared Memory I"
 leader = "Lab A: Leader - TBD"
-readings = []
+readings = ["ivy"]
 
 [[classes]]
 lesson = 12
@@ -77,40 +77,34 @@ readings = ["drust"]
 lesson = 13
 title = "Persistent Memory I"
 leader = "Lab A: Leader - TBD"
-readings = []
+readings = ["empirical"]
 
 [[classes]]
 lesson = 14
 title = "Persistent Memory II"
 leader = "Lab B: Leader - TBD"
-readings = []
+readings = ["wsp"]
 
 [[classes]]
 lesson = 15
-title = "Disagg I"
+title = "Disaggregated Memory I"
 leader = "Lab A: Leader - TBD"
 readings = ["disagg"]
 
 [[classes]]
 lesson = 16
-title = "Disagg II"
+title = "Disaggregated Memory II"
 leader = "Lab B: Leader - TBD"
 readings = ["trackfm"]
 
 [[classes]]
 lesson = 17
-title = "Disagg III"
+title = "Disaggregated Memory III"
 leader = "Lab A: Leader - TBD"
 readings = ["tiers"]
 
 [[classes]]
 lesson = 18
-title = "NDP I"
+title = "Near-Data Processing"
 leader = "Lab B: Leader - TBD"
-readings = []
-
-[[classes]]
-lesson = 19
-title = "NDP II"
-leader = "Lab A: Leader - TBD"
-readings = []
+readings = ["simple"]
