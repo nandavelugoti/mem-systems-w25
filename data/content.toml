@@ -28,7 +28,7 @@ readings = ["nuksm"]
 [[classes]]
 lesson = 5
 title = "Distributed Memory and Message Passing"
-leader = "Lab A: Leader - TBD"
+leader = "Lab A: Leader - Noah"
 readings = ["fmi"]
 
 [[classes]]
