@@ -64,7 +64,7 @@ readings = ["segcache"]
 [[classes]]
 lesson = 11
 title = "Distributed Shared Memory I"
-leader = "Lab A: Leader - TBD"
+leader = "Lab A: Leader - Gabe"
 readings = ["ivy"]
 
 [[classes]]
