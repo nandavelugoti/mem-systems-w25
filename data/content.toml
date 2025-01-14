@@ -16,95 +16,95 @@ leader = "Kyle"
 
 [[classes]]
 lesson = 3
-leader = "Lab A: **Leader - Sami**"
+leader = "Memory Leakers: Leader - Sami"
 readings = ["mosaic"]
 
 [[classes]]
 lesson = 4
 title = "Shared Memory and NUMA"
-leader = "DAM RAM Lab: **Leader - Eugene**"
+leader = "DAM RAM: Leader - Eugene"
 readings = ["nuksm"]
 
 [[classes]]
 lesson = 5
 title = "Distributed Memory and Message Passing"
-leader = "Lab A: Leader - Noah"
+leader = "Memory Leakers: Leader - Noah"
 readings = ["fmi"]
 
 [[classes]]
 lesson = 6
 title = "Cache Coherence"
-leader = "DAM RAM Lab: **Leader - Rabecka**"
+leader = "DAM RAM: Leader - Rabecka"
 readings = ["barrel"]
 
 [[classes]]
 lesson = 7
 title = "Memory Models and Consistency"
-leader = "Lab A: Leader - TBD"
+leader = "Memory Leakers: Leader - TBD"
 readings = ["e2e"]
 
 [[classes]]
 lesson = 8
 title = "Fault-Tolerance and Replication I"
-leader = "DAM RAM Lab: Leader - TBD"
+leader = "DAM RAM: Leader - TBD"
 readings = ["raft"]
 
 [[classes]]
 lesson = 9
 title = "Fault-Tolerance and Replication II"
-leader = "Lab A: Leader - TBD"
+leader = "Memory Leakers: Leader - TBD"
 readings = ["hotstuff"]
 
 [[classes]]
 lesson = 10
 title = "In-Memory Key-Value Stores"
-leader = "DAM RAM Lab: Leader - TBD"
+leader = "DAM RAM: Leader - TBD"
 readings = ["segcache"]
 
 [[classes]]
 lesson = 11
 title = "Distributed Shared Memory I"
-leader = "Lab A: Leader - Gabe"
+leader = "Memory Leakers: Gabe"
 readings = ["ivy"]
 
 [[classes]]
 lesson = 12
 title = "Distributed Shared Memory II"
-leader = "DAM RAM Lab: Leader - TBD"
+leader = "DAM RAM: Leader - TBD"
 readings = ["drust"]
 
 [[classes]]
 lesson = 13
 title = "Persistent Memory I"
-leader = "Lab A: Leader - TBD"
+leader = "Memory Leakers: Leader - TBD"
 readings = ["empirical"]
 
 [[classes]]
 lesson = 14
 title = "Persistent Memory II"
-leader = "DAM RAM Lab: Leader - TBD"
+leader = "DAM RAM: Leader - TBD"
 readings = ["wsp"]
 
 [[classes]]
 lesson = 15
 title = "Disaggregated Memory I"
-leader = "Lab A: Leader - TBD"
+leader = "Memory Leakers: Leader - TBD"
 readings = ["disagg"]
 
 [[classes]]
 lesson = 16
 title = "Disaggregated Memory II"
-leader = "DAM RAM Lab: Leader - TBD"
+leader = "DAM RAM: Leader - TBD"
 readings = ["trackfm"]
 
 [[classes]]
 lesson = 17
 title = "Disaggregated Memory III"
-leader = "Lab A: Leader - TBD"
+leader = "Memory Leakers: Leader - TBD"
 readings = ["tiers"]
 
 [[classes]]
 lesson = 18
 title = "Near-Data Processing"
-leader = "DAM RAM Lab: Leader - TBD"
+leader = "DAM RAM: Leader - Nanda"
 readings = ["simple"]
