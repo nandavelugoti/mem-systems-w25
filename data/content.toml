@@ -64,7 +64,7 @@ readings = ["segcache"]
 [[classes]]
 lesson = 11
 title = "Distributed Shared Memory I"
-leader = "Memory Leakers: Leader - TBD"
+leader = "Memory Leakers: Gabe"
 readings = ["ivy"]
 
 [[classes]]
@@ -106,5 +106,5 @@ readings = ["tiers"]
 [[classes]]
 lesson = 18
 title = "Near-Data Processing"
-leader = "DAM RAM: Leader - TBD"
+leader = "DAM RAM: Leader - Nanda"
 readings = ["simple"]
