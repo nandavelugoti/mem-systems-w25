@@ -21,7 +21,6 @@ readings = ["mosaic"]
 
 [[classes]]
 lesson = 4
-title = "NUMA"
 leader = "DAM RAM: Leader - Eugene"
 readings = ["nuksm"]
 
