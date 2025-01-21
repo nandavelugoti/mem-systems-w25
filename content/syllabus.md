@@ -12,7 +12,7 @@ systems, with a focus on techniques and technologies that enable today’s
 high-performance memory systems.  
 
 ## Communication
-We will use Discord for course communication, and GitHub for online paper and lesson
+We will use Discord for course communication, and [GitHub](https://github.com/khale/mem-systems-w25/discussions) for online paper and lesson
 discussions. You can find the Discord server sign-up link in a Canvas announcement. 
 
 ## Class Sessions
@@ -50,7 +50,7 @@ already has a slide deck available online, feel free to use that, or a subset of
 
 #### If you are in the presentation group
 
-- Blogger: submit a summary of the paper (and your interpretations/opinions/thoughts about it)
+- Blogger/Reviewer: submit a summary of the paper (and your interpretations/opinions/thoughts about it)
   to the paper leader. It should include
   * Background you think the audience needs to understand the paper
   * Detailed summary of the main contributions of the paper. Don't just summarize; include your thoughts
