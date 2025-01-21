@@ -21,7 +21,6 @@ readings = ["mosaic"]
 
 [[classes]]
 lesson = 4
-title = "Shared Memory and NUMA"
 leader = "DAM RAM: Leader - Eugene"
 readings = ["nuksm"]
 
@@ -33,7 +32,7 @@ readings = ["fmi"]
 
 [[classes]]
 lesson = 6
-title = "Cache Coherence"
+title = "Shared Memory and Cache Coherence"
 leader = "DAM RAM: Leader - Rabecka"
 readings = ["barrel"]
 
@@ -58,7 +57,7 @@ readings = ["hotstuff"]
 [[classes]]
 lesson = 10
 title = "In-Memory Key-Value Stores"
-leader = "DAM RAM: Leader - TBD"
+leader = "DAM RAM: Leader - David"
 readings = ["segcache"]
 
 [[classes]]
