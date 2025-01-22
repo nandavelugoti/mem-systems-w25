@@ -12,7 +12,7 @@ systems, with a focus on techniques and technologies that enable today’s
 high-performance memory systems.  
 
 ## Communication
-We will use Discord for course communication, and GitHub for online paper and lesson
+We will use Discord for course communication, and [GitHub](https://github.com/khale/mem-systems-w25/discussions) for online paper and lesson
 discussions. You can find the Discord server sign-up link in a Canvas announcement. 
 
 ## Class Sessions
@@ -40,7 +40,7 @@ When we read a paper, you will need to participate in online and in person.
 
 - One week before we discuss the paper, create a discussion thread for the paper in GitHub [discussions][paper-disc].
 - Watch the discussion thread and answer any questions you can 
-- Work with your lab to assign the roles of blogger, scribe, and reviewer
+- Work with your lab to assign the roles of blogger/reviewer and scribe.
 - Present a few slides (~10 is good, more is okay) on the paper and lead the in-class discussion. If the paper
 already has a slide deck available online, feel free to use that, or a subset of it. 
 - Gather everyone's work from your lab no later than one week from discussion day into a blog post on the [website github][gh].
@@ -50,16 +50,15 @@ already has a slide deck available online, feel free to use that, or a subset of
 
 #### If you are in the presentation group
 
-- Blogger: submit a summary of the paper (and your interpretations/opinions/thoughts about it)
+- Blogger/Reviewer: submit a summary of the paper (and your interpretations/opinions/thoughts about it)
   to the paper leader. It should include
   * Background you think the audience needs to understand the paper
   * Detailed summary of the main contributions of the paper. Don't just summarize; include your thoughts
   * Important results and what they mean
   * Context of where the work fits in and why it's important for the field. 
-
-- Scribe: Take good notes of the in-class discussion and submit to the paper leader
-- Reviewer: Identify strengths and weaknesses of the paper (both those you've identified, and those
-identified by others in in-class and online discussions)
+  * Identify strengths and weaknesses of the paper (both those you've identified, and those
+    identified by others in in-class and online discussions)
+- Scribe: Take good notes of the in-class discussion and submit to the blogger to include in the blog post
 
 **Everyone must take on each of these roles at least once.**
 

@@ -96,3 +96,39 @@ link = "https://www.sigplan.org/Resources/EmpiricalEvaluation/"
 name = "DRust: Language-Guided Distributed Shared Memory with Fine Granularity, Full Transparency, and Ultra Efficiency"
 link = "https://www.usenix.org/conference/osdi24/presentation/ma-haoran"
 details = "Ma et al. OSDI '24"
+
+[raft]
+name = "In Search of an Understandable Consensus Algorithm"
+link = "https://web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14"
+details = "Diego Ongaro and John Ousterhout. USENIX ATC '14"
+
+[hotstuff]
+name = "HotStuff: BFT Consensus with Linearity and Responsiveness"
+link = "https://dl.acm.org/doi/10.1145/3293611.3331591"
+details = "Yin et al. PODC '19"
+
+[ivy]
+name = "IVY: A Shared Virtual Memory System for Parallel Computing"
+link = "https://systems.cs.columbia.edu/ds2-class/papers/li-ivy.pdf"
+details = "Kai Li. ICPP '88"
+
+[segcache]
+name = "Segcache: A Memory-efficient and Scalable In-memory Key-value Cache for Small Objects"
+link = "https://www.usenix.org/conference/nsdi21/presentation/yang-juncheng"
+details = "Juncheng Yang, Yao Yue, and Rashmi Yinayak. NSDI '21"
+
+[empirical]
+name = "An Empirical Guide to the Behavior and Use of Scalable Persistent Memory"
+link = "https://www.usenix.org/conference/fast20/presentation/yang"
+details = "Yang et al. FAST '20"
+
+[wsp]
+name = "Whole-System Persistence"
+link = "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-updated.pdf"
+details = "Dushyanth Narayanan and Orion Hodson. ASPLOS '12"
+
+[simple]
+name = "SimplePIM: A Software Framework for Productive and Efficient Processing-in-Memory"
+link = "https://people.inf.ethz.ch/omutlu/pub/SimplePIM_pact23.pdf"
+details = "Chen et al. PACT '23"
+
