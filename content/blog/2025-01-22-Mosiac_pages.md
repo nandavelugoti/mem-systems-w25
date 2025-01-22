@@ -2,15 +2,16 @@
 title = "Mosiac Pages: Big TLB Reach with Small Pages"
 [extra]
 bio = """
-  [Sami Aljabery] is a graduate student studying Electrical and Computer Engineering at Oregon State University. He's passionate about computer architecture, loves exploring, and enjoys the Metroid series. 
+  [Sami Aljabery] is a graduate student studying Electrical and Computer Engineering at Oregon State University. He's passionate about computer architecture, loves exploring, and enjoys the Metroid series.
 """
 [[extra.authors]]
 name = "Sami Aljabery"
 [[extra.authors]]
-name = "Gabriel Rodgers"
+name = "Gabriel Rodgers (Scribe) "
 [[extra.authors]]
-name = "Noah Bean"
+name = "Noah Bean (Blogger) "
 +++
+
 
 ## Background and Context
 The Bottleneck Problem - Modern workloads like machine learning have massive working sets of memory that often exceed the TLB’s capacity which leads to frequent misses and performance degradation. Previous approaches rely on physical memory contiguity which increases overhead from memory defragmentation.
