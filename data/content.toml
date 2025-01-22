@@ -26,7 +26,6 @@ readings = ["nuksm"]
 
 [[classes]]
 lesson = 5
-title = "Distributed Memory and Message Passing"
 leader = "Memory Leakers: Leader - Noah"
 readings = ["fmi"]
 
