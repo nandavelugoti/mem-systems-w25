@@ -34,7 +34,7 @@ VM- Virtual machine
 
 NUMA systems have special configurations of hardware called NUMA nodes, these are small collections of processors, memory, and I/O buses that are linked together in a NUMA architecture. 
 
-![NUMA Diagram](/content/blog/2025-01-15-nuKSM/numa.PNG)
+![NUMA Diagram](numa.PNG)
 
 
 ## nuKSM’s purpose
@@ -50,7 +50,7 @@ Could nuKSM have positive effects on GPU memory storage techniques?
 I asked this question to Euguene due to reading the acronym CUP as GPU, even though it was a misunderstanding it led to an interesting tangent where we discussed if an implementation like nuKSM could benefit a piece of hardware like a graphics card. Both use memory and move large amounts of data around but they do it for different purposes and in different ways. We ended the discussion on that topic by noting that it might be beneficial for GPU developers to look at the techniques of nuKSM but it won’t be directly applicable to their work
 How fast is good enough for deduplication?
 One interesting thing noted in the paper is the redesign of the page reclamation algorithm. This algorithm is used to assign a since value for the priority of the specific process using a page.
-![nuShare Formula](/content/blog/2025-01-15-nuKSM/formula.PNG)
+![nuShare Formula](formula.PNG)
 
 This new algorithm is stated to increase fairness of priority, in addition the
 page structure which used to follow a tree design was changed to a forest
