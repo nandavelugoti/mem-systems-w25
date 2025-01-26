@@ -74,7 +74,7 @@ readings = ["drust"]
 [[classes]]
 lesson = 13
 title = "Persistent Memory I"
-leader = "Memory Leakers: Leader - TBD"
+leader = "Memory Leakers: Leader - Noah"
 readings = ["empirical"]
 
 [[classes]]
