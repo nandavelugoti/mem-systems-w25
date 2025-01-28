@@ -43,7 +43,7 @@ readings = ["e2e"]
 [[classes]]
 lesson = 8
 title = "Fault-Tolerance and Replication I"
-leader = "DAM RAM: Leader - TBD"
+leader = "DAM RAM: Leader - Ben"
 readings = ["raft"]
 
 [[classes]]
