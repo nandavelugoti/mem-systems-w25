@@ -31,7 +31,6 @@ readings = ["fmi"]
 
 [[classes]]
 lesson = 6
-title = "Shared Memory and Cache Coherence"
 leader = "DAM RAM: Leader - Rabecka"
 readings = ["barrel"]
 
