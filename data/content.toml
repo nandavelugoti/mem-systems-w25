@@ -49,7 +49,7 @@ readings = ["raft"]
 [[classes]]
 lesson = 9
 title = "Fault-Tolerance and Replication II"
-leader = "Memory Leakers: Leader - TBD"
+leader = "Memory Leakers: Leader - Shuyi"
 readings = ["hotstuff"]
 
 [[classes]]
