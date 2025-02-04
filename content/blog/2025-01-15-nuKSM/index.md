@@ -3,16 +3,18 @@ title = "Questions and Thoughts on nuKSM"
 [extra]
 latex = true
 bio = """
-  [Benjamin Knutson] Currently pursuing a B.S. in Electrical and Computer engineering, Spends most of his time playing games, studying languages, and rushing to finish his homework
+  Eugene Cohen is pursuing a Master's degree in Computer Science having worked in industry for a quarter century.
 """
 [[extra.authors]]
-name = "Eugene Cohen"
+name = "Eugene Cohen (leader)"
 [[extra.authors]]
-name = "Rabecka Moffit"
+name = "Rabecka Moffit (scribe)"
+[[extra.authors]]
+name = "Benjamin Knutson (blogger)"
 [[extra.authors]]
 name = "Nanda Velugoti"
 [[extra.authors]]
-name = "David luo"
+name = "David Luo"
 +++
 
 

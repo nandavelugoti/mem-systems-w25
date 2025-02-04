@@ -1,17 +1,14 @@
 +++
 title = "The Multikernel: Ambitious OS Architecture Ahead of Its Time"
 [extra]
-bio = """
-  Eugene Cohen is pursuing a Master's degree in Computer Science having worked in industry for a quarter century.
-"""
 [[extra.authors]]
-name = "Eugene Cohen"
+name = "Rabecka Moffit (leader)"
 [[extra.authors]]
-name = "Rabecka Moffit"
+name = "David Luo (scribe)"
+[[extra.authors]]
+name = "Eugene Cohen (blogger)"
 [[extra.authors]]
 name = "Nanda Velugoti"
-[[extra.authors]]
-name = "David Luo"
 [[extra.authors]]
 name = "Benjamin Knutson"
 +++
