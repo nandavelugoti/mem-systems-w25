@@ -36,7 +36,6 @@ readings = ["barrel"]
 
 [[classes]]
 lesson = 7
-title = "Memory Models and Consistency"
 leader = "Memory Leakers: Leader - Sami"
 readings = ["e2e"]
 
@@ -47,7 +46,6 @@ readings = ["raft"]
 
 [[classes]]
 lesson = 9
-title = "Fault-Tolerance and Replication II"
 leader = "Memory Leakers: Leader - Shuyi"
 readings = ["hotstuff"]
 
