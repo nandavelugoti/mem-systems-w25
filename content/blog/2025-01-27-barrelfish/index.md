@@ -1,6 +1,9 @@
 +++
 title = "The Multikernel: Ambitious OS Architecture Ahead of Its Time"
 [extra]
+bio = """
+  Rabecka Moffit is an electrical engineering student pursuing a M.Eng. and a B.S at Oregon State University who enjoys gravel biking, surfing, and baking.
+"""
 [[extra.authors]]
 name = "Rabecka Moffit (leader)"
 [[extra.authors]]
