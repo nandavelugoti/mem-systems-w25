@@ -74,7 +74,7 @@ details = "Zhong et al. OSDI '24"
 
 [disagg]
 name = "Disaggregated Memory for Expansion and Sharing in Blade Servers"
-link = "https://web.eecs.umich.edu/~twenisch/papers/isca09-disaggregate.pdf"
+link = "https://dl.acm.org/doi/10.1145/1555754.1555789"
 details = "Lim et al. ISCA '09"
 
 [fastswap]
