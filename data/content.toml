@@ -64,7 +64,7 @@ readings = ["ivy"]
 [[classes]]
 lesson = 12
 title = "Distributed Shared Memory II"
-leader = "DAM RAM: Leader - TBD"
+leader = "DAM RAM: Leader - Nanda"
 readings = ["drust"]
 
 [[classes]]
