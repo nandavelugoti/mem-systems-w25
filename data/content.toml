@@ -51,7 +51,6 @@ readings = ["hotstuff"]
 
 [[classes]]
 lesson = 10
-title = "In-Memory Key-Value Stores"
 leader = "DAM RAM: Leader - David"
 readings = ["segcache"]
 
