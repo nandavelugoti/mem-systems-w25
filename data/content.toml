@@ -81,7 +81,7 @@ readings = ["wsp"]
 [[classes]]
 lesson = 15
 title = "Disaggregated Memory I"
-leader = "Memory Leakers: Leader - TBD"
+leader = "Memory Leakers: Leader - Shuxian"
 readings = ["disagg"]
 
 [[classes]]
