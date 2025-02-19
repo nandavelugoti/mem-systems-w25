@@ -41,7 +41,7 @@ IVY is written in Pascal, and so are the experiments that were done to test for 
 
 This paper has several weaknesses, but a notable one is the lack of comparison with memory passing. The paper makes a case for shared virtual memory, but it would’ve been insightful to see a performance difference to establish further validity. Another weakness is that the memory allocation is single level, which means only one processor can allocate memory at a time. Even the paper itself notes it would be more efficient to implement a two level memory management approach. Another weakness is that the high overhead of IVY is caused by its implementation in user mode, rather than system mode . As mentioned in the results, the split-merge sort and dot product tests did not yield a linear speed-up, which could come from bottlenecks such as the single level memory allocator as well as its high overhead.
 
-![Speedup of merge-split sort](Figure 6 - Speedup of merge-split sort.jpg)
+![Speedup of merge-split sort](figure6.jpg)
 
 ## Class Discussion
 
