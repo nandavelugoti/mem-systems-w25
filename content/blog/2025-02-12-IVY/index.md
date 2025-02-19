@@ -36,6 +36,8 @@ The remote operation module enables remote communication between the other modul
 
 IVY is written in Pascal, and so are the experiments that were done to test for side effects in shared data structures as well as its granularity in parallelism. The first two experiments involve pascal programs of jacobi algorithms that solve linear equations and 3D partial differential equations. Other programs include the traveling salesman problem, matrix multiply, dot product, and split-merge sort. The results shown in figures 5 and 6 of the paper, we find that both split-merge sort and dot product tests do not yield linear speedups. As for the other programs, we find that the linear speedup increases when multiple processors are introduced. Multiprocessors have more memory, which means it will handle less page faults and have a better yield.
 
+![Algorithm speedups](figure5.jpg)
+
 
 ## Weakness
 
