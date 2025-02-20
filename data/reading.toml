@@ -84,7 +84,7 @@ details = "Amaro et al. EuroSys '20"
 
 
 [trackfm]
-name = "TrackFM: Far-out Compiler Support for a Far Memory WOrld"
+name = "TrackFM: Far-out Compiler Support for a Far Memory World"
 link = "https://dl.acm.org/doi/10.1145/3617232.3624856"
 details = "Tauro et al. ASPLOS '24"
 
