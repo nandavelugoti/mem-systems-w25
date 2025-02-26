@@ -81,7 +81,7 @@ readings = ["wsp"]
 [[classes]]
 lesson = 15
 title = "Disaggregated Memory I"
-leader = "Memory Leakers: Leader - Shuxian"
+leader = "Memory Leakers: Leader - Gabe"
 readings = ["disagg"]
 
 [[classes]]
@@ -93,7 +93,7 @@ readings = ["trackfm"]
 [[classes]]
 lesson = 17
 title = "Disaggregated Memory III"
-leader = "Memory Leakers: Leader - Gabe"
+leader = "Memory Leakers: Leader - Shuxian"
 readings = ["tiers"]
 
 [[classes]]
