@@ -26,7 +26,6 @@ The implementation starts with the memory blade, which is composed of DRAM modul
 
 The results contain simulations using benchmarks such as zeusmp, perl, gcc, bwaves, spec4p, nutch4p, tpchmix, mcf, pgbench, indexer, specjbb, and Hmean. Figure 5 details the capacity expansion results, and we find that PS has better performance over FGRA in speedups over M-app-75% provisioning and M-median provisioning. These graphs highlight both FGRA and PS relative to the baseline, with a 4X to 320X increase in performance. In figure 7a, PS handles the imbalance between VM memory demands and local capacity, resulting in a possible 68% reduction of processor count. In terms of cost, PS is slightly better as it's not reliant on custom hardware, but implementing disaggregated memory improves performance-per-dollar by 87% in Figure 7(b). FGRA has some drawbacks as it doesn’t handle swapping like PS, which is addressed inn figure 8 for potential hardware implementations such as page migration.
 
-![Results Figures](MMS_Image_1.png)  
 
 ## Weakness
 
