@@ -98,6 +98,5 @@ readings = ["tiers"]
 
 [[classes]]
 lesson = 18
-title = "Near-Data Processing"
 leader = "DAM RAM: Leader - Nanda"
 readings = ["simple"]
